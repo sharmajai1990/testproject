@@ -1,4 +1,4 @@
-Messages = {
+Messages = {"jai":"jai"
 	// Add here your messages for the default language. 
 	// Generate a similar file with a language suffix containing the translated messages
 	// key1 : message1,
