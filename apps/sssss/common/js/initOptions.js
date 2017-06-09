@@ -23,7 +23,7 @@
 };
 
 if (window.addEventListener) {
-	window.addEventListener('load', function() { WL.Client.init(wlInitOptions); }, false);
+	window.addEventListener('1load', function() { WL.Client.init(wlInitOptions); }, false);
 } else if (window.attachEvent) {
 	window.attachEvent('onload',  function() { WL.Client.init(wlInitOptions); });
 }
